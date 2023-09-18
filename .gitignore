@@ -1,3 +1,6 @@
 /.htaccess
 /wp-config.php
 /.vscode
+/wp-content/themes/hello-elementor
+/wp-content/plugins/wp-mailhog-smtp
+/wp-content/plugins/jongi-contact-form/vendor
