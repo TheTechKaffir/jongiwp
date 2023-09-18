@@ -1,3 +1,3 @@
 <?php 
 
-die('I am sorry but you are intruding');
+die("Ndikubhaqile uzam'ukungena ngondlela mnyama!!");
